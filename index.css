@@ -12,6 +12,7 @@ text {
 
 .node {
   cursor: pointer;
+  pointer-events: bounding-box;
 }
 
 .node circle {
